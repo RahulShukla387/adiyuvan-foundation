@@ -19,7 +19,7 @@ function App() {
         <Route path='/about' element = { <Overview/> } />
         <Route path='/events' element = { <Overview/> } />
         <Route path='/donate' element = { <Donate/> } />
-        <Route path='/centers' element = { <Overview/> } />
+        <Route path='/centers' element = { <AdiYuvanDashboard/> } />
 
       </Routes>
     
